@@ -1,0 +1,12 @@
+*.dll
+*.DLL
+*.exe
+*.EXE
+*.mak
+*.MAK
+*.ocx
+*.OCX
+*.vbw
+*.vbx
+*.VBX
+dist/
